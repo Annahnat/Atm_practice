@@ -5,4 +5,8 @@ public class Test {
 
     // working tc123
     //......
+
+    public static void main(String[] args) {
+        MainUtils.coolMethods();
+    }
 }
