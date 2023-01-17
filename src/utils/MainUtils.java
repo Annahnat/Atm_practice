@@ -1,11 +1,11 @@
 package utils;
 
 public class MainUtils {
-    public  void  collMethod(){
+    public static void  collMethod(){
 
     }
 
-    public  void  otherCollMethod(){
+    public static   void  otherCollMethod(){
 
     }
 
